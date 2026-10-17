@@ -26,7 +26,7 @@ The two portals should not look like copies, so this one got its own design, whi
 
 ## What I built
 
-- 1,000 articles moved with their images, each image in AVIF and WebP variants in five widths, and 344 redirects from old addresses
+- 1,000 articles moved with their images, each image in AVIF and WebP variants in several widths, and 344 redirects from old addresses
 - One codebase shared with Radio AMI, with a site profile for the name, colours, sections, stream and legal details
 - The Silver Signal design: a radio dial as the guide line, a player with a 105.0 display and a news mosaic on the home page
 - A contact form through my central form service, with an HTML email to the newsroom and a confirmation to the sender

@@ -26,7 +26,7 @@ Dva portala ne smeju da izgledaju kao kopije, pa je ovaj dobio svoj izgled, koji
 
 ## Šta sam uradio
 
-- 1.000 vesti prenetih sa slikama, svaka slika u AVIF i WebP varijantama u pet širina, i 344 preusmerenja starih adresa
+- 1.000 vesti prenetih sa slikama, svaka slika u AVIF i WebP varijantama u više širina, i 344 preusmerenja starih adresa
 - Jedan kod zajedno sa Radiom AMI, uz profil sajta za ime, boje, rubrike, strim i podatke za impresum
 - Izgled Srebrni signal: skala radija kao linija vodilja, plejer sa ekranom 105.0 i mozaik vesti na naslovnoj
 - Kontakt forma preko mog centralnog servisa za forme, sa HTML mejlom redakciji i potvrdom pošiljaocu
